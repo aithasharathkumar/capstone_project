@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T17:53:59 IST" name="Default suite" finished-at="2023-11-15T17:54:52 IST" duration-ms="53070">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T17:53:59 IST" name="Default test" finished-at="2023-11-15T17:54:52 IST" duration-ms="53070">
+      <class name="com.sportyshoe.testpages.SportyShoePageTest">
+        <test-method is-config="true" signature="Open_Browser()[pri:0, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:53:56 IST" name="Open_Browser" finished-at="2023-11-15T17:53:59 IST" duration-ms="3559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Browser -->
+        <test-method signature="User_Registration()[pri:1, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:53:59 IST" name="User_Registration" finished-at="2023-11-15T17:54:22 IST" duration-ms="22938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Registration -->
+        <test-method signature="User_Login()[pri:2, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:54:22 IST" name="User_Login" finished-at="2023-11-15T17:54:35 IST" duration-ms="12824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Login -->
+        <test-method signature="Add_To_Cart()[pri:3, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:54:35 IST" name="Add_To_Cart" finished-at="2023-11-15T17:54:39 IST" duration-ms="4352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_To_Cart -->
+        <test-method signature="Place_Order()[pri:4, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:54:39 IST" name="Place_Order" finished-at="2023-11-15T17:54:52 IST" duration-ms="12831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Place_Order -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:com.sportyshoe.testpages.SportyShoePageTest@5b218417]" started-at="2023-11-15T17:54:52 IST" name="close_Browser" finished-at="2023-11-15T17:54:55 IST" duration-ms="2399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- com.sportyshoe.testpages.SportyShoePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
